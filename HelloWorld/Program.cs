@@ -40,3 +40,10 @@ Console.WriteLine(message.ToLower());
 string songtext = "Forever young i want to be forever young";
 Console.WriteLine(songtext.Contains("young"));
 Console.WriteLine(songtext.Contains("never"));
+
+string songLyrics = "You say goodbye, and I say hello";
+Console.WriteLine(songLyrics.StartsWith("You"));
+Console.WriteLine(songLyrics.StartsWith("goodbye"));
+
+Console.WriteLine(songLyrics.EndsWith("hello"));
+Console.WriteLine(songLyrics.EndsWith("goodbye"));
