@@ -1,4 +1,4 @@
-﻿string Friend = "Szymon";
+a﻿string Friend = "Szymon";
 Console.WriteLine(Friend);
 
 Friend = "Maria";
