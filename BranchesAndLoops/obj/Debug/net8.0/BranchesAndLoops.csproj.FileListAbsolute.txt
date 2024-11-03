@@ -1,0 +1,14 @@
+c:\anton\programming\C#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.exe
+c:\anton\programming\C#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.deps.json
+c:\anton\programming\C#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.runtimeconfig.json
+c:\anton\programming\C#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.dll
+c:\anton\programming\C#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.pdb
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfoInputs.cache
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfo.cs
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.dll
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\refint\BranchesAndLoops.dll
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.pdb
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.genruntimeconfig.cache
+c:\anton\programming\C#\BranchesAndLoops\obj\Debug\net8.0\ref\BranchesAndLoops.dll
